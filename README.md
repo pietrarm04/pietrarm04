@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Engenharia de Software
 - 🌱 Estudando Python e JavaScript
-- 📫 Contate-me: pietra2004@gmail.com
+- 📫 Contate-me: pietra.rolim11@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 
