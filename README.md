@@ -1,7 +1,7 @@
 # Oii! Eu sou a Pietra Rolim, seja muito bem vindo(a)!
 
 - 🔭 Estudante de Engenharia de Software
-- 🌱 Estudando Python e JavaScript
+- 🌱 Estudando Analise de dados, automação e IA
 - 📫 Contate-me: pietra.rolim11@gmail.com
 - 😄 Pronomes: Ela/Dela
 
